@@ -14,8 +14,8 @@ st.set_page_config(
     page_icon="📈",
     layout="wide"
 )
-
-st.title("📈 PHÂN TÍCH GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
+st.image("logoUFM.jpg")
+st.title("📈 TRUC QUAN HOA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL_NGÔ KHẢ MỸ_ĐỀ TÀI 4")
 
 # =============================
 # SIDEBAR
